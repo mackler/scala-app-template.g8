@@ -1,3 +1,3 @@
 # Usage
 
-    sbt new mackler/zio-app-template.g8
+    sbt new mackler/scala-app-template.g8
