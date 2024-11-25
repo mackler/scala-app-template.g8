@@ -14,3 +14,5 @@ $else$
 $endif$
   "org.scalacheck" %% "scalacheck" % "$scalacheck_version$" % Test,
 )
+
+scalacOptions += "-language:strictEquality"
